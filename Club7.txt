@@ -1,0 +1,6 @@
+NAME Cosplay Club
+TAG Anime Gaming
+SIZE 100
+MEETINGTIME 6600 6840
+TIMECOM 30
+NOTES Any Cosplayer welcome!
