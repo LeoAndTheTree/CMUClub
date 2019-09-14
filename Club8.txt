@@ -1,6 +1,0 @@
-NAME Networking Club
-TAG Computing
-SIZE 0
-MEETINGTIME 0 0
-TIMECOM 0
-NOTES We need a networking club.
