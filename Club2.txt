@@ -2,5 +2,5 @@ NAME 195 Nations: CMU'92s United Nations Association
 TAG political
 SIZE 200
 MEETINGTIME 6810 6870
-TIMECOM 1
+TIMECOM 60
 NOTES 
